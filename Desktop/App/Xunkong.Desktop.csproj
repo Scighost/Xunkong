@@ -10,6 +10,7 @@
 		<RuntimeIdentifiers>win-x86;win-x64;win-arm64</RuntimeIdentifiers>
 		<UseWinUI>true</UseWinUI>
 		<Nullable>enable</Nullable>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<DebugType>embedded</DebugType>
 		<DefineConstants>DISABLE_XAML_GENERATED_MAIN</DefineConstants>
 		<ApplicationIcon>..\Package\Assets\Logos\logo.ico</ApplicationIcon>
@@ -35,7 +36,7 @@
 		<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
 		<PackageReference Include="Microsoft.Graphics.Win2D" Version="1.2.0" />
 		<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.5.240802000" />
-		<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.1" />
+		<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.3233" />
 		<PackageReference Include="MiniExcel" Version="1.34.2" />
 		<PackageReference Include="protobuf-net" Version="3.2.30" />
 		<PackageReference Include="Scighost.WinUILib" Version="0.1.2" />

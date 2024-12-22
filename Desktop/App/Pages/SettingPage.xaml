@@ -200,7 +200,7 @@
 
 
                     <!--  主页壁纸  -->
-                    <labs:SettingsExpander Description="精心挑选的同人*图" Header="主页壁纸">
+                    <labs:SettingsExpander Description="米哈游启动器的背景图" Header="主页壁纸">
                         <labs:SettingsExpander.HeaderIcon>
                             <FontIcon FontSize="20" Glyph="&#xE91B;" />
                         </labs:SettingsExpander.HeaderIcon>
